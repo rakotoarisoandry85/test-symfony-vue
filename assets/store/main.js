@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import auth from './auth'
-import products from "./Products";
-
+//import products from "./Products";
 
 Vue.use(Vuex)
+
 export default new Vuex.Store({
   state:{
     isLoading: false

@@ -1,7 +1,8 @@
 <template>
   <div >
-    <h1  > Bienvenue sur le site !!!!!</h1>
-    
+    <b-row class="h90" align-v="center" align-h="center">
+      <h1  > Bienvenue sur le site !!!!!</h1>
+    </b-row>
   </div>
 
 </template>
